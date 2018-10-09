@@ -1,0 +1,2 @@
+# music-manager
+This is a small-sized project, implemented as a part of a bachelor Java course final exam. The application is a simple music manager service: a user can sign in locally and create their music collection, adding/removing/querying tracks by means of a user-friendly UI. XMLs are used to store and validate user data, and to store track's data. All classes are extensively documented. To launch, compile and run APManager2017.java.
