@@ -1,0 +1,20 @@
+ott 10, 2018 12:36:43 AM atunibz.dperez.approject1617.system.APManagerSystem$2 run
+INFORMAZIONI: application started
+ott 10, 2018 12:36:52 AM atunibz.dperez.approject1617.system.APManagerSystem stop
+INFORMAZIONI: application terminated
+ott 10, 2018 12:37:00 AM atunibz.dperez.approject1617.system.APManagerSystem$2 run
+INFORMAZIONI: application started
+ott 10, 2018 12:37:05 AM atunibz.dperez.approject1617.system.APManagerSystem stop
+INFORMAZIONI: application terminated
+ott 10, 2018 12:38:07 AM atunibz.dperez.approject1617.system.APManagerSystem$2 run
+INFORMAZIONI: application started
+ott 10, 2018 12:38:24 AM atunibz.dperez.approject1617.gui.linux.RegistrationPanel register
+INFORMAZIONI: a user registered with username dperez
+ott 10, 2018 12:38:33 AM atunibz.dperez.approject1617.gui.linux.ImagePanel$SelectionListener setAsProfilePic
+INFORMAZIONI: logged in as dperez
+ott 10, 2018 12:38:47 AM atunibz.dperez.approject1617.system.APManagerSystem stop
+INFORMAZIONI: application terminated
+ott 10, 2018 12:41:27 AM atunibz.dperez.approject1617.system.APManagerSystem$2 run
+INFORMAZIONI: application started
+ott 10, 2018 12:41:31 AM atunibz.dperez.approject1617.system.APManagerSystem stop
+INFORMAZIONI: application terminated
