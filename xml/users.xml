@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+        
+    <user pic="metadata/profilepics/8.png">
+                
+        <username>admin</username>
+                
+        <password>21232f297a57a5a743894a0e4a801fc3</password>
+            
+    </user>
+        
+    <user pic="metadata/profilepics/6.png">
+                
+        <username>lastprova</username>
+                
+        <password>a260dc3f5474a71913d26faf79c351b2</password>
+            
+    </user>
+    
+    <user pic="metadata\profilepics\5.png">
+        <username>dperez</username>
+        <password>0fe4f43e1dd173abc07ce508a74800e2</password>
+    </user>
+</users>

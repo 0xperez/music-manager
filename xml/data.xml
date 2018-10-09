@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <track>
+        <title>That's What I Like</title>
+        <artist>Bruno Mars</artist>
+        <gender>Hip hop soul</gender>
+        <album>24k Magic</album>
+        <label>Atlantic Records</label>
+        <writer>Bruno Mars</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>I'm The One</title>
+        <artist>DJ Khaled ft. Justin Bieber</artist>
+        <gender>Hip hop</gender>
+        <album>Single</album>
+        <label>We the Best Music</label>
+        <writer>Khaled Khaled</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Rain</title>
+        <artist>The Beatles</artist>
+        <gender>Pop rock</gender>
+        <album>Paperback Writer</album>
+        <label>Parlophone</label>
+        <writer>John Lennon</writer>
+        <year>1966</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Paradise City</title>
+        <artist>Guns N' Roses</artist>
+        <gender>Hard rock</gender>
+        <album>Appetite for Destruction</album>
+        <label>Geffen Records</label>
+        <writer>Axl Rose, Slash</writer>
+        <year>1988</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Patience</title>
+        <artist>Guns N' Roses</artist>
+        <gender>Acoustic rock</gender>
+        <album>G N' R Lies</album>
+        <label>Geffen Records</label>
+        <writer>Axl Rose</writer>
+        <year>1988</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Come As You Are</title>
+        <artist>Nirvana</artist>
+        <gender>Grunge</gender>
+        <album>Nevermind</album>
+        <label>Geffen Records</label>
+        <writer>Kurt Cobain</writer>
+        <year>1992</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Smells Like Teen Spirit</title>
+        <artist>Nirvana</artist>
+        <gender>Grunge</gender>
+        <album>Nevermind</album>
+        <label>Geffen Records</label>
+        <writer>Kurt Cobain</writer>
+        <year>1991</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>In The End</title>
+        <artist>Linkin Park</artist>
+        <gender>Nu Metal</gender>
+        <album>Hybrid Theory</album>
+        <label>Warner Bros</label>
+        <writer>Linkin Park</writer>
+        <year>2001</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>High Voltage</title>
+        <artist>Linkin Park</artist>
+        <gender>Nu Metal</gender>
+        <album>Hybrid Theory</album>
+        <label>Warner Bros</label>
+        <writer>Mike Shinoda</writer>
+        <year>2001</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>A Place for My Head</title>
+        <artist>Linkin Park</artist>
+        <gender>Nu metal</gender>
+        <album>Hybrid Theory</album>
+        <label>Warner Bros</label>
+        <writer>Linkin Park, Dave Farrell</writer>
+        <year>2000</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Numb</title>
+        <artist>Linkin Park</artist>
+        <gender>Nu metal</gender>
+        <album>Meteora</album>
+        <label>Warner Bros</label>
+        <writer>Linkin Park</writer>
+        <year>2003</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Parole di Ghiaccio</title>
+        <artist>Emis Killa</artist>
+        <gender>Hip hop</gender>
+        <album>L'erba cattiva</album>
+        <label>Carosello</label>
+        <writer>Emis Killa</writer>
+        <year>2011</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Il King</title>
+        <artist>Emis Killa</artist>
+        <gender>Hip hop</gender>
+        <album>L'erba cattiva</album>
+        <label>Carosello</label>
+        <writer>Emis Killa</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Vendetta</title>
+        <artist>Marracash</artist>
+        <gender>Hip hop</gender>
+        <album>Status</album>
+        <label>Universal</label>
+        <writer>Marracash</writer>
+        <year>2015</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>California Gurls</title>
+        <artist>Katy Perry ft. Snoop Dogg</artist>
+        <gender>Pop</gender>
+        <album>Teenage Dream</album>
+        <label>Capitol Records</label>
+        <writer>Katy Perry</writer>
+        <year>2010</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Empire State Of Mind</title>
+        <artist>Jay-Z ft. Alicia Keys</artist>
+        <gender>Hip hop</gender>
+        <album>The Blueprint 3</album>
+        <label>Atlantic Records</label>
+        <writer>Jay-Z</writer>
+        <year>2009</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Doesn't Mean Anything</title>
+        <artist>Alicia Keys</artist>
+        <gender>Pop</gender>
+        <album>The Element of Freedom</album>
+        <label>J Record</label>
+        <writer>Alicia Keys</writer>
+        <year>2009</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Hotline Bling</title>
+        <artist>Drake</artist>
+        <gender>Afrobeat</gender>
+        <album>Views</album>
+        <label>Cash Money</label>
+        <writer>Drake</writer>
+        <year>2016</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Roses</title>
+        <artist>The Chainsmokers</artist>
+        <gender>Synth Pop</gender>
+        <album>Bouquet</album>
+        <label>Columbia Records</label>
+        <writer>The Chainsmokers</writer>
+        <year>2015</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Work</title>
+        <artist>Rihanna</artist>
+        <gender>Reggae</gender>
+        <album>Anti</album>
+        <label>Roc Nation</label>
+        <writer>Jahron Braithwaite</writer>
+        <year>2016</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Jailhouse Rock</title>
+        <artist>Elvis Presley</artist>
+        <gender>Rock and roll</gender>
+        <album>Jailhouse Rock</album>
+        <label>Radio Recorders</label>
+        <writer>Jerry Leiber, Mike Stoller</writer>
+        <year>1957</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Can't Feel My Face</title>
+        <artist>The Weeknd</artist>
+        <gender>Pop</gender>
+        <album>Beauty Behind the Madness</album>
+        <label>XO</label>
+        <writer>Ali Payami</writer>
+        <year>2015</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Scream</title>
+        <artist>Michael Jackson</artist>
+        <gender>Pop</gender>
+        <album>HIStory</album>
+        <label>Epic</label>
+        <writer>James Harrys III</writer>
+        <year>1995</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>The Monster</title>
+        <artist>Eminem ft. Rihanna</artist>
+        <gender>Hip hop</gender>
+        <album>The Marshall Mathers LP2</album>
+        <label>Interscope Records</label>
+        <writer>Bebe Rexha, Eminem</writer>
+        <year>2013</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Rude</title>
+        <artist>Magic!</artist>
+        <gender>Pop</gender>
+        <album>Don't Kill the Magic</album>
+        <label>Latium</label>
+        <writer>Nasri Atweh, Adam Messinger</writer>
+        <year>2013</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Shake It Off</title>
+        <artist>Taylor Swift</artist>
+        <gender>Pop</gender>
+        <album>1989</album>
+        <label>Big Machine</label>
+        <writer>Taylor Swift</writer>
+        <year>2014</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Locked Out of Heaven</title>
+        <artist>Bruno Mars</artist>
+        <gender>Reggae</gender>
+        <album>Unorthodox Jukebox</album>
+        <label>Atlantic</label>
+        <writer>Bruno Mars</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Thrift Shop</title>
+        <artist>Macklemore ft. Wanz</artist>
+        <gender>Pop</gender>
+        <album>The Heist</album>
+        <label>Macklemore</label>
+        <writer>Ryan Lewis</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Harlem Shake</title>
+        <artist>Baauer</artist>
+        <gender>Bass</gender>
+        <album>Single</album>
+        <label>Mad Decent</label>
+        <writer>Baauer</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Roar</title>
+        <artist>Katy Perry</artist>
+        <gender>Pop</gender>
+        <album>Prism</album>
+        <label>Capitol</label>
+        <writer>Katy Perry</writer>
+        <year>2013</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>We Found Love</title>
+        <artist>Rihanna ft. Calvin Harris</artist>
+        <gender>Electro house</gender>
+        <album>Talk That Talk</album>
+        <label>Def Jam</label>
+        <writer>Calvin Harris</writer>
+        <year>2011</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Feel So Close</title>
+        <artist>Calvin Harris</artist>
+        <gender>Electro house</gender>
+        <album>18 Months</album>
+        <label>Deconstruction</label>
+        <writer>Calvin Harris</writer>
+        <year>2011</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>We Are Young</title>
+        <artist>Fun</artist>
+        <gender>Pop</gender>
+        <album>Some Nights</album>
+        <label>Nettwerk</label>
+        <writer>Nate Ruess</writer>
+        <year>2011</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Call Me Maybe</title>
+        <artist>Carly Rae Jepsen</artist>
+        <gender>Pop</gender>
+        <album>Curiosity</album>
+        <label>Schoolboy</label>
+        <writer>Carly Rae Jepsen, Josh Ramsay</writer>
+        <year>2011</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Whistle</title>
+        <artist>Flo Rida</artist>
+        <gender>Pop</gender>
+        <album>Wild Ones</album>
+        <label>Poe Boy</label>
+        <writer>Tramar Dillar</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>One More Night</title>
+        <artist>Maroon 5</artist>
+        <gender>Pop</gender>
+        <album>Overexposed</album>
+        <label>Octone</label>
+        <writer>Adam Levine</writer>
+        <year>2012</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Humble</title>
+        <artist>Kendrick Lamar</artist>
+        <gender>Hip hop</gender>
+        <album>Damn</album>
+        <label>Top Dawg</label>
+        <writer>Kendrick Duckworth</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Sportswear </title>
+        <artist>Pyrex</artist>
+        <gender>Trap</gender>
+        <album>The Dark Album</album>
+        <label>Sick Luke</label>
+        <writer>Pyrex</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Mob</title>
+        <artist>Lazza ft. Nitro, Salmo</artist>
+        <gender>Hip hop</gender>
+        <album>Zzala</album>
+        <label>333 Mob</label>
+        <writer>Lazza, Nitro, Salmo</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>For The Stunt</title>
+        <artist>Russ</artist>
+        <gender>Hip hop</gender>
+        <album>Single</album>
+        <label>Russ</label>
+        <writer>Russ</writer>
+        <year>2016</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Back On Road</title>
+        <artist>Gucci Mane</artist>
+        <gender>Hip hop</gender>
+        <album>Everybody Looking</album>
+        <label>GUWOP</label>
+        <writer>Radric Davis</writer>
+        <year>2016</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Flashing Lights</title>
+        <artist>Kanye West</artist>
+        <gender>Hip hop</gender>
+        <album>Graduation</album>
+        <label>Def Jam</label>
+        <writer>Kanye West, Eric Hudson</writer>
+        <year>2007</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Stronger</title>
+        <artist>Kanye West</artist>
+        <gender>Hip hop</gender>
+        <album>Graduation</album>
+        <label>Def Jam</label>
+        <writer>Kanye West, Thomas Bangalter</writer>
+        <year>2007</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Cobrastyle</title>
+        <artist>Teddybears ft. Mad Cobra</artist>
+        <gender>Alternative rock</gender>
+        <album>Fresh</album>
+        <label>Virgin</label>
+        <writer>Ewart Brown, David Parker</writer>
+        <year>2004</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Thinking Out Loud</title>
+        <artist>Ed Sheeran</artist>
+        <gender>Soul</gender>
+        <album>x</album>
+        <label>Asylum</label>
+        <writer>Ed Sheeran</writer>
+        <year>2014</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Love Yourself</title>
+        <artist>Justin Bieber</artist>
+        <gender>Pop</gender>
+        <album>Purpose</album>
+        <label>Def Jam</label>
+        <writer>Ed Sheeran, Benny Blanco, Justin Bieber</writer>
+        <year>2015</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Starboy</title>
+        <artist>The Weeknd ft. Daft Punk</artist>
+        <gender>Pop</gender>
+        <album>Starboy</album>
+        <label>XO</label>
+        <writer>Abel Tesfaye</writer>
+        <year>2016</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>All The Small Things</title>
+        <artist>Blink-182</artist>
+        <gender>Pop punk</gender>
+        <album>Enema of the State</album>
+        <label>MCA</label>
+        <writer>Tom DeLonge, Mark Hoppus</writer>
+        <year>2000</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>What's My Age Again?</title>
+        <artist>Blink-182</artist>
+        <gender>Pop punk</gender>
+        <album>Enema of the State</album>
+        <label>MCA</label>
+        <writer>Mark Hoppus, Tom DeLonge</writer>
+        <year>1999</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Cancioncitas De Amor</title>
+        <artist>Romeo Santos</artist>
+        <gender>Tropical</gender>
+        <album>Formula Vol. 2</album>
+        <label>Independent</label>
+        <writer>Anthony Santos</writer>
+        <year>2014</year>
+        <addedBy>admin</addedBy>
+    </track>
+</data>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <track>
+        <title>Volare</title>
+        <artist>Fabio Rovazzi</artist>
+        <gender>Pop</gender>
+        <album>Single</album>
+        <label>Independent</label>
+        <writer>Gianni Morandi</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Papparapa</title>
+        <artist>Nerone</artist>
+        <gender>Hip hop</gender>
+        <album>Max</album>
+        <label>Dj Gengis Khan</label>
+        <writer>Nerone</writer>
+        <year>2017</year>
+        <addedBy>admin</addedBy>
+    </track>
+    <track>
+        <title>Party Rock Anthem</title>
+        <artist>LMFAO</artist>
+        <gender>Elettrorap</gender>
+        <album>Sorry For Party Rocking</album>
+        <label>Interscope Records</label>
+        <writer>LMFAO</writer>
+        <year>2010</year>
+        <addedBy>admin</addedBy>
+    </track>
+<track>
+        <title>Uptown Funk</title>
+        <artist>Mark Ronson ft. Bruno Mars</artist>
+        <gender>Funk</gender>
+        <album>Uptown Special</album>
+        <label>Sony Music</label>
+        <writer>Jeff Bhasker</writer>
+        <year>2014</year>
+        <addedBy>admin</addedBy>
+    </track>
+<track>
+        <title>No One</title>
+        <artist>Alicia Keys</artist>
+        <gender>Soul</gender>
+        <album>As I Am</album>
+        <label>J Records</label>
+        <writer>Krucial, Dirty Harry</writer>
+        <year>2007</year>
+        <addedBy>admin</addedBy>
+    </track>
+</data>
